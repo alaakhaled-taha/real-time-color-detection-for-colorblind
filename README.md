@@ -28,26 +28,7 @@ Edit
  ┣ 📜 README.md           # Project documentation (this file)
  ┣ 📜 requirements.txt    # Dependencies list
  ┣ 📜 config.json         # Configuration settings
-📥 Installation
-1️⃣ Clone the repository
 
-bash
-Copy
-Edit
-git clone https://github.com/YourUsername/Color-Detection.git
-cd Color-Detection
-2️⃣ Install dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-3️⃣ Run the program
-
-bash
-Copy
-Edit
-python main.py --image path/to/image.jpg
 🖼️ How It Works
 1️⃣ Convert Image to HSV
 2️⃣ Apply Masking to target color ranges
